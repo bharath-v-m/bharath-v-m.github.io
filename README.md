@@ -1,2 +1,2 @@
-# medtechbharath.github.io
+# bharath-v-m.github.io
 My portfolio
